@@ -36,7 +36,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "C:/Users/ruben/my-app/build/index.html",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
